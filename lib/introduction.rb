@@ -3,6 +3,12 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
+#Define a Method that takes in and uses a parameter 
+def introduction(name)
+  puts "Hi, my name is #{name}."
+end
+
+
 
 
 
